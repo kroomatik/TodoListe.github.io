@@ -1,3 +1,3 @@
 # TodoListe.github.io
 TodoListe faite en JavaScript
-![](GifTodoListe.mp4)
+![](https://media.giphy.com/media/kiJ4Wms3C6SxsTJke0/giphy.gif)
